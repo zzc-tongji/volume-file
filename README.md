@@ -218,6 +218,7 @@ sync
 
 ### 7. 其他
 
+- 所有代码文件必须使用 GBK 编码。
 - 所有".md"文件是用 [Typora](http://typora.io) 编写的。
 - 所有".md"文件的风格是 [Github Flavored Markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)。
 - 各行以CRLF（Windows）结尾。
